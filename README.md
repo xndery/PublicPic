@@ -1,2 +1,2 @@
 # PublicPic
-图片
+mdpic_info
